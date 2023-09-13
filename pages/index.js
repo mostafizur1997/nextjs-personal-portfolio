@@ -7,7 +7,7 @@ const Index = () => {
     <Layout>
       <div className="container">
         <Head>
-          <title>Mahmudul Alam || Home</title>
+          <title>Masud || Home</title>
         </Head>
         <Home />
       </div>

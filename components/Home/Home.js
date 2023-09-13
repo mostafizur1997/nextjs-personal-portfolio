@@ -11,7 +11,7 @@ const Home = () => {
             <div className="col-lg-10 col-12">
               <div className="mi-home-content">
                 <h1>
-                  Hi, I am <span className="color-theme">Mahmudul Alam</span>
+                  Hi, I am <span className="color-theme">Masud</span>
                 </h1>
                 <p>
                   I am a full stack web developer. I enjoy building everything
