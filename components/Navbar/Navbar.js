@@ -21,10 +21,10 @@ const LinkList = [
     name: 'Portfolios',
     path: '/portfolios',
   },
-  // {
-  //   name: "Blogs",
-  //   path: "/blogs",
-  // },
+  {
+    name: "Blogs",
+    path: "/blogs",
+  },
   {
     name: 'Contact',
     path: '/contact',
