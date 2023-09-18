@@ -51,7 +51,7 @@ const Home = () => {
                     <a
                       rel="noopener noreferrer"
                       target="_blank"
-                      href="https://fiverr.com/devmahmud"
+                      href="https://www.fiverr.com/rider1997?up_rollout=true"
                     >
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
