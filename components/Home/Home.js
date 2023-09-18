@@ -41,11 +41,12 @@ const Home = () => {
                     <a
                       rel="noopener noreferrer"
                       target="_blank"
-                      href="https://stackoverflow.com/users/10956991/mahmudul-alam?tab=profile"
+                      href="https://stackoverflow.com/users/12068013/mostafizur-rahman-masud"
                     >
                       <FaStackOverflow />
                     </a>
                   </li>
+                  
                   <li>
                     <a
                       rel="noopener noreferrer"
