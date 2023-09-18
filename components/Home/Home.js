@@ -32,7 +32,7 @@ const Home = () => {
                     <a
                       rel="noopener noreferrer"
                       target="_blank"
-                      href="https://www.linkedin.com/in/devmahmud"
+                      href="https://www.linkedin.com/in/md-mostafizur-rahman-masud-954612186/"
                     >
                       <FaLinkedinIn />
                     </a>
