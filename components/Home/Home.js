@@ -14,8 +14,9 @@ const Home = () => {
                   Hi, I am <span className="color-theme">Masud</span>
                 </h1>
                 <p>
-                  I am a full stack web developer. I enjoy building everything
-                  from small business sites to rich interactive web apps.
+                  I am a Data Engineer with a passion for transforming raw data into valuable insights. 
+                  I specialize in designing and maintaining data pipelines, ensuring data accuracy and availability for analytical purposes. 
+                  With a strong background in data warehousing and ETL processes, I thrive in the dynamic world of data-driven decision-making.
                 </p>
                 <ul className="mi-socialicons mi-socialicons-bordered">
                   <li>
