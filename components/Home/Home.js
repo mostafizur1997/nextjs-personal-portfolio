@@ -23,7 +23,7 @@ const Home = () => {
                     <a
                       rel="noopener noreferrer"
                       target="_blank"
-                      href="https://github.com/devmahmud"
+                      href="https://github.com/mostafizur1997"
                     >
                       <FaGithub />
                     </a>
